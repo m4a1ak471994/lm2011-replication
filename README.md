@@ -33,6 +33,8 @@ The paper became foundational for empirical finance NLP — the dictionary is do
 | **Table V col(4) Fin-Neg tf-idf MD&A t-stat** | **−3.39** | −1.96 |
 | **R²** | 2.35 – 2.58 % | 2.45 – 2.76 % |
 
+Sample period: 1994–2008.
+
 Two weighting schemes:
 
 Columns (2) and (4) report two weightings of the LM negative-word list: (a) **Fin-Neg** is the proportional measure: the number of words in a filing that appear in the negative-word list, divided by the filing’s total word count; (b) **Fin-Neg tf-idf** reweights those same words using tf-idf, as defined below (Eq. 1 in the paper):
